@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Apk",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
